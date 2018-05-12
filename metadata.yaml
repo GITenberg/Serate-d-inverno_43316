@@ -1,0 +1,33 @@
+_repo: Serate-d-inverno_43316
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43316-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Colombi, marchesa
+    aliases:
+    - Colombi, la Marchesa
+    - Torelli-Viollier, Maria Antonietta Torriani
+    birthdate: 1840
+    deathdate: 1920
+    gutenberg_agent_id: '7649'
+    url: http://www.gutenberg.org/2009/agents/7649
+description: ''
+gutenberg_bookshelf: IT Racconti
+gutenberg_issued: '2013-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43316'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian fiction'
+- !lcsh 'Short stories, Italian'
+- !lcc 'PQ'
+tableOfContents: Prefazione -- Teste alate -- La prima disgrazia -- Impara l'arte
+  e mettila da parte -- Fiore d'arancio -- In provincia -- Un velo bianco.
+title: Serate d'inverno
+url: http://www.gutenberg.org/ebooks/43316
